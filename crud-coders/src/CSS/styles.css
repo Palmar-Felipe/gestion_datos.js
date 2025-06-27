@@ -1,0 +1,12 @@
+
+
+body{
+    background-color: rgb(17, 72, 224);
+    
+}
+ main{
+    font-size: 20px;
+    color: aliceblue;
+    display: flex;
+    flex-direction: column;
+ }
